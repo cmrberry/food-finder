@@ -4,3 +4,4 @@ Schwartz's Bakery	Bakery	5
 Pizza Station	Italian	12
 trattoria natalie	italian	18
 bistro natalie	american	32
+Fish Grill	seafood	15
